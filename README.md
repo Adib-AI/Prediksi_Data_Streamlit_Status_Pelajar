@@ -1,4 +1,4 @@
-# Proyek Akhir: enyelesaikan Permasalahan Institusi Pendidikan
+# Proyek Akhir: Penyelesaikan Permasalahan Institusi Pendidikan
 
 ## Business Understanding
 
@@ -102,3 +102,9 @@ Sisi prediksi model Machine Learning memberikan akurasi yang cukup tinggi sebesa
 - Memahami karakter pelajar dengan mengajak sebagai teman pendukung
 - Memberikan gambaran masa depan terhadap keadaan orang tua saat ini
 - Mencari potensi pelajar oleh instruktur dengan cara yang tidak monoton
+
+## Prediksi Data Status Pelajar dengan Streamlit
+
+Pada streamlit yang dibuat Anda dapat dilakukan secara 2 hal yaitu
+* Manual, yang digunakan untuk menggunakan prediksi 1 data
+* Secara CSV. yaitu digunakan untuk memprediksi secara banyak data
